@@ -36,7 +36,7 @@
 
 </br>
 
-![certificate_A20221201-931720-1](https://user-images.githubusercontent.com/117060112/205033402-5169c968-5c14-45bc-a452-3d6acc4371d3.png)
+![certificate_모두를 위한 프로그래밍 : 파이썬](https://user-images.githubusercontent.com/117060112/205034172-d3fd7e01-3d01-4a77-903d-cebd294d420c.png)
 
 ### 2. 파이썬 자료구조
 
