@@ -35,9 +35,7 @@
 ### 1. 모두를 위한 프로그래밍 파이썬
 
 </br>
-
-![image](https://user-images.githubusercontent.com/110883172/203780313-a045addd-f139-44e4-93cc-cbc12d5475b3.png)
-</br>
+![certificate_A20221201-931720-1](https://user-images.githubusercontent.com/117060112/205033402-5169c968-5c14-45bc-a452-3d6acc4371d3.png)
 
 ### 2. 파이썬 자료구조
 
